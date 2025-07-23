@@ -29,6 +29,9 @@ author:
     fullname: "Martin Thomson"
     organization: Mozilla
     email: "mt@lowentropy.net"
+-
+    fullname: "Lucas Pardue"
+    email: "lucas@lucaspardue.com"
 
 normative:
 
