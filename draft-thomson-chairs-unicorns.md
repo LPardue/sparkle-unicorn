@@ -13,6 +13,8 @@ v: 3
 keyword:
  - next generation
  - unicorn
+ - bidicorn
+ - multicorn
  - sparkling distributed ledger
 venue:
 #  group: WG
